@@ -1,0 +1,426 @@
+pre_post;project_wocid;commit_sha1;author;time;commit message
+pre;christophsax_seasonal;d43f789c63fdb252e3718c4098034bfdab2eaa15;Christoph Sax <christoph.sax@gmail.com>;1512384867;"Merge pull request #220 from christophsax/static
+
+static now uses m$list, rather than m$call"
+pre;christophsax_seasonal;a61868f14f609ecdfd5a0f93b82d5adb8e36f4cb;Christoph Sax <christoph.sax@gmail.com>;1512802573;"Merge branch 'master' into static
+"
+pre;christophsax_seasonal;e585b72deb2487c9a540d8809518376559efb40d;Christoph Sax <christoph.sax@gmail.com>;1512802716;"fix dates for Chinese New Year in 2015 and 2017
+
+fixes  #219
+"
+pre;christophsax_seasonal;a0388d55093ea7b8ac37cdbc3a02803d59d78c2a;Christoph Sax <christoph.sax@gmail.com>;1512804199;"outliers in view() complete again
+
+fixes #211
+"
+pre;christophsax_seasonal;3d97a630d8baff98a0e70e85ba4bf4545cfc1fd0;Christoph Sax <christoph.sax@gmail.com>;1512804628;"also fixes #212
+"
+pre;christophsax_seasonal;de85d9a8d65eb9d0c1d92fc89512b5374d42ce4b;Christoph Sax <christoph.sax@gmail.com>;1512804805;"v no and date
+"
+pre;christophsax_seasonal;40af0ba67b271c13a6e40aaa32ab8a8d41bc933f;Christoph Sax <christoph.sax@gmail.com>;1512805537;"Merge pull request #221 from christophsax/static
+
+small fixes"
+pre;christophsax_seasonal;d64dcaa62ee248f4f23e0c2be6f53d0a00770c07;Christoph Sax <christoph.sax@gmail.com>;1512956442;"Merge branch 'master' into static
+"
+pre;christophsax_seasonal;15dfd6a8894d266dddfdafde8d92ae53d13dc28a;Christoph Sax <christoph.sax@gmail.com>;1512956446;"list Dirk as ctb
+"
+pre;christophsax_seasonal;d368a0065132e271fa4bcec27a3f55ccefe48ed4;Christoph Sax <christoph.sax@gmail.com>;1512959883;"Merge pull request #222 from christophsax/static
+
+Static"
+post;christophsax_seasonal;612e870482010d9d24ca5537223f4fe34719cdb2;Christoph <christoph.sax@gmail.com>;1545214981;"rm ws
+"
+post;christophsax_seasonal;09f3f2adc6ced48d432dea6f37b0bd265bff264d;Christoph <christoph.sax@gmail.com>;1545215195;"add ORCID
+"
+post;christophsax_seasonal;94ad096f8af5003e9496e99e7a3cdbc491ad9577;Christoph <christoph.sax@gmail.com>;1545215207;"add JSS citation
+"
+post;christophsax_seasonal;4c3fa1763053389c2006ca19c095a3faf18f8331;Christoph <christoph.sax@gmail.com>;1545215220;"rox update
+"
+post;christophsax_seasonal;ef27c72c5e5a79860573647f54a503aad486b613;Christoph <christoph.sax@gmail.com>;1545216597;"rm ws
+"
+post;christophsax_seasonal;88e79892966c4b9b6288c59687a4dff1ceac6e94;Christoph <christoph.sax@gmail.com>;1545271407;"Encoding: UTF-8
+"
+post;christophsax_seasonal;a52c9c7e02c3a2e139d7754a27620e2a1581491e;Christoph <christoph.sax@gmail.com>;1545272952;"turn JSS article into vignette
+"
+post;christophsax_seasonal;207efa03c6b98113f83b21b71dc9a396c68945e7;Christoph <christoph.sax@gmail.com>;1545274057;"cite JSS article in vignette
+"
+post;christophsax_seasonal;e97a3b552859ccf6d1d3568bab2bee4a7454154e;Christoph <christoph.sax@gmail.com>;1545274084;"a shorter README
+"
+post;christophsax_seasonal;d0d513928fda19bd985c1fd47a2b72d36c3d861f;Christoph <christoph.sax@gmail.com>;1545274287;"rm ws
+"
+pre;feihoo87_qulab;01492d80830b2b81283d364d44abb9ebfb4aaba4;feihoo87 <me@feihoo87.com>;1418123379;":neckbeard: Added .gitattributes & .gitignore files
+"
+post;feihoo87_qulab;7219836e9f4e33cfbbf28c9c1c70529dfd822f85;feihoo87 <xfh1987@gmail.com>;1521193725;Initial commit
+post;feihoo87_qulab;750787eb45632d6ea56ff5f99c1b9e4e1e32acd0;feihoo87 <xfh1987@gmail.com>;1521197670;"First public version
+
+Change version to 0.1.0
+"
+post;feihoo87_qulab;64d05a804171ffcf0f0f8ad46a82b71eda6a6765;feihoo87 <xfh1987@gmail.com>;1521197670;"First public version
+"
+post;feihoo87_qulab;f53410b8af3c9c2ec75080e9529c5b98e2bb5e94;feihoo87 <xfh1987@gmail.com>;1521199159;"Fix error in setup.py
+"
+post;feihoo87_qulab;8a1be01e1dd0ced68b3ae546212508ef1b687518;feihoo87 <xfh1987@gmail.com>;1521199199;"Change version number
+"
+post;feihoo87_qulab;c050eae0cffb9cae3f731052387d7f974d55833b;feihoo87 <xfh1987@gmail.com>;1521199548;"Fix encode error
+"
+post;feihoo87_qulab;dc972f98e399e72d6d528f2b623b0954f1a48f9a;feihoo87 <xfh1987@gmail.com>;1521199585;"Change version number
+"
+post;feihoo87_qulab;394acf6bf9a612fac2387e87707aa656eaa3300a;feihoo87 <xfh1987@gmail.com>;1521200188;"Remove requirements.txt file
+"
+post;feihoo87_qulab;2220ad7085cbb5d965c79bca162bb73b0a1fb9ed;feihoo87 <xfh1987@gmail.com>;1521201584;"Add version dependents
+"
+post;feihoo87_qulab;a9e9cbe7e9e95d9f64f20419d3a245efa307e9a6;feihoo87 <xfh1987@gmail.com>;1521202769;"Fix bug server can not get `server_name`
+"
+pre;gimli-org_gimli;2c32adea2210beff55742548f1f1748d5212f945;carsten-forty2 <carsten-forty2@055bc8ed-0f0b-4c81-92a1-1fabe6ef5d15>;1307631056;"transfer commit, unittest broken, will fix it over the weekend
+"
+pre;gimli-org_gimli;065a2f023ea8b29686710314122827682690b2ac;carsten-forty2 <carsten.ruecker@tu-berlin.de>;1308001088;"win compatibility commit. Add new check for boost, advance external makefile. Add new externalTest that segfaults atm. I have no clue whats going wrong. Linux build is unchecked and probably broken.
+"
+pre;gimli-org_gimli;205a3ff82e7a5b1d724dfa91cafa86f98b392a30;carsten-forty2 <carsten-forty2@055bc8ed-0f0b-4c81-92a1-1fabe6ef5d15>;1308001088;"win compatibility commit. Add new check for boost, advance external makefile. Add new externalTest that segfaults atm. I have no clue whats going wrong. Linux build is unchecked and probably broken.
+"
+pre;gimli-org_gimli;1be923d11f8aa1f99da2e3068cc8a7df3b13aeb9;carsten-forty2 <carsten@gimli.org>;1308001088;"win compatibility commit. Add new check for boost, advance external makefile. Add new externalTest that segfaults atm. I have no clue whats going wrong. Linux build is unchecked and probably broken.
+"
+pre;gimli-org_gimli;d3ff7e6bff20349100e45286f00e53eee8a7bf75;halbmy <halbmy@055bc8ed-0f0b-4c81-92a1-1fabe6ef5d15>;1308157633;"fixed harmfit app and added example for polyfit and harmfit
+"
+pre;gimli-org_gimli;8230448c4fdd8d2e87bbdf51e4e9654dffebe139;halbmy <halbmy@gmail.com>;1308157633;"fixed harmfit app and added example for polyfit and harmfit
+"
+pre;gimli-org_gimli;6388ecd26d82c7746ca23037d3922a7fc6abd242;halbmy <halbmy@gmail.com>;1308157633;"fixed harmfit app and added example for polyfit and harmfit
+"
+pre;gimli-org_gimli;0fbf12be9426ff9d6dc6fc8358f82fab4b57d8c5;halbmy <halbmy@055bc8ed-0f0b-4c81-92a1-1fabe6ef5d15>;1309435950;"comments in data container and some preliminary changes in dc1dmodelling and ttdijkstramodelling
+"
+pre;gimli-org_gimli;67e4afae971899af63f8c347e5736cae7c64e068;halbmy <halbmy@gmail.com>;1309435950;"comments in data container and some preliminary changes in dc1dmodelling and ttdijkstramodelling
+"
+pre;gimli-org_gimli;092bcb3a26e5351b496314e28298c4d2e29fb335;halbmy <halbmy@gmail.com>;1309435950;"comments in data container and some preliminary changes in dc1dmodelling and ttdijkstramodelling
+"
+post;gimli-org_gimli;c0cb989f982ec35e47aa38a3886ef4def5752cd5;carsten-forty2 <carsten.ruecker@tu-berlin.de>;1312301333;"fix external/Makefile, triangleTest
+"
+post;gimli-org_gimli;3d8a53a697af4fa92ea48f0d5e6fcb91115b4505;carsten-forty2 <carsten-forty2@055bc8ed-0f0b-4c81-92a1-1fabe6ef5d15>;1312301333;"fix external/Makefile, triangleTest
+"
+post;gimli-org_gimli;a41814318f2b64d527ad2dda89106d1ae070afae;carsten-forty2 <carsten@gimli.org>;1312301333;"fix external/Makefile, triangleTest
+"
+post;gimli-org_gimli;7aca6de02c026abc9166a4cd753ca85ab063343f;halbmy <halbmy@gmail.com>;1312466293;"added codeblocks project files in mingw
+fixed apps/em1d tools
+started fdem 1d modelling class
+"
+post;gimli-org_gimli;984b45a270a8f693bd91961e3a940eb0b78d2a3d;halbmy <halbmy@gmail.com>;1312466293;"added codeblocks project files in mingw
+fixed apps/em1d tools
+started fdem 1d modelling class
+"
+post;gimli-org_gimli;940252d8c248df7879f55f4274c139ad41bd2767;halbmy <halbmy@055bc8ed-0f0b-4c81-92a1-1fabe6ef5d15>;1312466293;"added codeblocks project files in mingw
+fixed apps/em1d tools
+started fdem 1d modelling class
+"
+post;gimli-org_gimli;8cb68492169bc446766df8e294de1e228c71144c;halbmy <halbmy@055bc8ed-0f0b-4c81-92a1-1fabe6ef5d15>;1312466906;"removed constructor order warnings
+"
+post;gimli-org_gimli;5f168d27db9965c7ec9e986e71356774b78e0a5b;halbmy <halbmy@gmail.com>;1312466906;"removed constructor order warnings
+"
+post;gimli-org_gimli;1d67cc0065ae9b82843313275b48c3a600ba61c4;halbmy <halbmy@gmail.com>;1312466906;"removed constructor order warnings
+"
+post;gimli-org_gimli;0a75e4cfc5bacf432fe952a8ceb6f74a2852695b;carsten-forty2 <carsten.ruecker@tu-berlin.de>;1312470367;"transfercommit
+"
+pre;gridtools_gridtools;b2f52bdc3bd59bee47656cd4bf9420702960c914;Till Ehrengruber <t.ehrengruber@me.com>;1740915830;"Merge 2279c865994ea088eb239f6dc33438303929c294 into efdf325840de451e119fc914ba047661586a9809
+"
+pre;gridtools_gridtools;6316ce384506a1c44aed3050f3138d7d2b55780a;Hannes Vogt <vogt@hey.com>;1744375845;"Update gtest to v1.16
+"
+pre;gridtools_gridtools;1141a3489346087821b90eeec805ffc0cd2c7676;Hannes Vogt <hannes@havogt.de>;1744377144;"Update gtest to v1.16 (#1823)
+
+... mainly for CMake 4.x support."
+pre;gridtools_gridtools;409a7dd1256edd3291bbdbb0e075776c06031dac;Hannes Vogt <hannes@havogt.de>;1744377144;"Update gtest to v1.16 (#1823)
+
+... mainly for CMake 4.x support."
+pre;gridtools_gridtools;5fb48c4dfa8db88ae84304ff18fd37eb0e5f5298;Hannes Vogt <vogt@hey.com>;1744377526;"Bump version to 2.3.9
+"
+pre;gridtools_gridtools;9e38c3027e7f6d6dbee3d55930424b3bcebe13be;Hannes Vogt <hannes@havogt.de>;1744725192;"Merge cfeeb30eaddb1c4a5a1c91d73ee36671c72214cd into 1141a3489346087821b90eeec805ffc0cd2c7676
+"
+pre;gridtools_gridtools;f994e7b857ecd6f384454439b3448c2459d38fa4;Hannes Vogt <hannes@havogt.de>;1745959425;"Merge e208a7d6cb1bc268ab58c1b7b072cb9b2da53510 into 1141a3489346087821b90eeec805ffc0cd2c7676
+"
+pre;gridtools_gridtools;a4c9d4158dbbb27755520e44190b63aaefb74a1f;Hannes Vogt <hannes@havogt.de>;1746149621;"Merge ca6bb40a96f66a07505bc578b6a05de184ec7e13 into 1141a3489346087821b90eeec805ffc0cd2c7676
+"
+pre;gridtools_gridtools;3a58fd08d8923b238e6e56dbe0552310d6031eae;Till Ehrengruber <t.ehrengruber@me.com>;1746221145;"Merge 2279c865994ea088eb239f6dc33438303929c294 into 1141a3489346087821b90eeec805ffc0cd2c7676
+"
+pre;gridtools_gridtools;313d9bbf583fac7c8459eee51e5895277aba4ff5;Anton Afanasyev <31539054+anstaf@users.noreply.github.com>;1746221158;"Merge 1fb2be21f51587310d185624528c58370f5ac3d3 into 1141a3489346087821b90eeec805ffc0cd2c7676
+"
+post;gridtools_gridtools;322374ea875d6f15482fab02722b3daedef82dc7;Felix Thaler <thaler@cscs.ch>;1771410075;"Updated default dependency versions
+"
+post;gridtools_gridtools;b6598f433d38589e0085b7b2cef164bf0d06d862;Felix Thaler <thaler@cscs.ch>;1771410723;"Revert to nanobind 2.9.2 for Python 3.8 support
+"
+post;gridtools_gridtools;196c702d798d005c9911a31f04d91c1f5f5353b9;Felix Thaler <thaler@cscs.ch>;1771411036;"Remove deprecated use of FetchContent_Populate
+"
+post;gridtools_gridtools;dc102280086d9af77a6b813b1f84e6fcbe62e87b;Felix Thaler <thaler@cscs.ch>;1771416169;"Install wheel
+"
+post;gridtools_gridtools;a1313a82810fe8d82058420b661ba86a0c09eab3;Felix Thaler <thaler@cscs.ch>;1771417092;"Revert ""Install wheel""
+
+This reverts commit dc102280086d9af77a6b813b1f84e6fcbe62e87b.
+"
+post;gridtools_gridtools;554789e06e41a2e1e0110d9e1947e128b7204dca;Felix Thaler <thaler@cscs.ch>;1771417108;"Install wheel in build_wheel
+"
+post;gridtools_gridtools;c5a85af55fd4df8629b8f64c88673261ebcb7624;Felix Thaler <thaler@cscs.ch>;1771420311;"Fix for Python Package Failure (#1826)
+
+"
+post;gridtools_gridtools;7c6870be993067fa5ff8d0dd8cf27d0343ea7004;Felix Thaler <thaler@cscs.ch>;1771420343;"Merge remote-tracking branch 'upstream/master' into deps-update
+"
+post;gridtools_gridtools;0e9982ca68726186a77465f2aedf2fb9b142960b;Felix Thaler <felix.thaler@nummi.ch>;1771420353;"Merge 7c6870be993067fa5ff8d0dd8cf27d0343ea7004 into c5a85af55fd4df8629b8f64c88673261ebcb7624
+"
+post;gridtools_gridtools;632ddff0b01bb6d7139efd298fd007e4f5c1e785;Felix Thaler <thaler@cscs.ch>;1771420359;"Merge remote-tracking branch 'upstream/master' into fetchcontent-update
+"
+pre;julianlsolvers_nlsolversbase.jl;cef31b5060158ce678c70fd6abf5a84fa40fc51b;Patrick Kofod Mogensen <patrick.mogensen@gmail.com>;1635865993;"Slight type instability. (#144)
+
+"
+pre;julianlsolvers_nlsolversbase.jl;c71b7a3951c5a5e278a07856dba6b0bd6f9558a1;Patrick Kofod Mogensen <patrick.mogensen@gmail.com>;1635871028;Update Project.toml
+pre;julianlsolvers_nlsolversbase.jl;ff4e14a97997172aec5f8f918bbff2e4d4bbf3b6;Steven G. Johnson <stevenj@mit.edu>;1636032050;"Merge fff06571a82bad65f09e5d4fdc47924c05fc1503 into c71b7a3951c5a5e278a07856dba6b0bd6f9558a1
+"
+pre;julianlsolvers_nlsolversbase.jl;cf12ae1acf7a8054d694343899070b30b2cd5c9a;Neven Sajko <s@purelymail.com>;1662669177;"remove unbound type parameter
+
+Unbound type parameters often cause performance issues and run time
+dispatch.
+
+Issue found using https://github.com/JuliaLang/julia/pull/46608
+"
+pre;julianlsolvers_nlsolversbase.jl;e46d95c9a6757e58a0c81bbcfa557273025308cd;Hendrik Ranocha <ranocha@users.noreply.github.com>;1665157797;"remove unused type variable
+
+I got a warning on Julia v1.8.2:
+
+```
+[ Info: Precompiling OrdinaryDiffEq [1dea7af3-3e70-54e6-95c3-0bf5283fa5ed]
+WARNING: method definition for TwiceDifferentiable at ~/.julia/packages/NLSolversBase/cfJrN/src/objective_types/incomplete.jl:96 declares type variable TH but does not use it.
+```
+
+Unused type variables can sometimes be bad, see JuliaLang/julia#29393"
+pre;julianlsolvers_nlsolversbase.jl;bdf99dd73fb59a322b62514e71e0cfb182e5b4bb;Chris Elrod <elrodc@gmail.com>;1666293546;remove unbound arg
+pre;julianlsolvers_nlsolversbase.jl;bf1cd8ff037b360bcad37de79eac923a5a0bd511;Jorge Fernandez-de-Cossio-Diaz <cossio@users.noreply.github.com>;1669048536;"Fix unused type variable
+
+I was getting this warning:
+
+```
+WARNING: method definition for TwiceDifferentiable at /home/cossio/.julia/packages/NLSolversBase/cfJrN/src/objective_types/incomplete.jl:96 declares type variable TH but does not use it.
+```
+
+Seems a trivial fix ...."
+pre;julianlsolvers_nlsolversbase.jl;29fed5aaf360e1caf44971656b2045d5e1cd6f63;Neven Sajko <s@purelymail.com>;1669050202;"remove unbound type parameter (#147)
+
+Unbound type parameters often cause performance issues and run time
+dispatch.
+
+Issue found using https://github.com/JuliaLang/julia/pull/46608"
+pre;julianlsolvers_nlsolversbase.jl;78af38393b14992ea996899c6486d971b5bfa612;Patrick Kofod Mogensen <patrick.mogensen@gmail.com>;1669050262;Update Project.toml
+pre;julianlsolvers_nlsolversbase.jl;30b35170e39eb8a104732340786a426178cb8d9b;Steven G. Johnson <stevenj@mit.edu>;1669058057;"Merge fff06571a82bad65f09e5d4fdc47924c05fc1503 into 78af38393b14992ea996899c6486d971b5bfa612
+"
+post;julianlsolvers_nlsolversbase.jl;cea232d31401d1da94b1da2324a7bc2d86ba77ea;Cameron Pfiffer <cameron@pfiffer.org>;1710988409;minor typo fix
+post;julianlsolvers_nlsolversbase.jl;88e9fde4713e8068cc1f13ca791e775495d06cf9;Cameron Pfiffer <cameron@pfiffer.org>;1711205630;"minor typo fix (#152)
+
+"
+post;julianlsolvers_nlsolversbase.jl;a4b287997df4229b7c8b2237c1929ef724ad61eb;Rodney Polkinghorne <604170+thisrod@users.noreply.github.com>;1718913033;"Merge 53d112e064c3df6b494870fe7e12bb319ee61089 into 88e9fde4713e8068cc1f13ca791e775495d06cf9
+"
+post;julianlsolvers_nlsolversbase.jl;d96692035347dc4b1cb375bb4f280ddf967c6fbe;Steven G. Johnson <stevenj@mit.edu>;1718917887;"Merge fff06571a82bad65f09e5d4fdc47924c05fc1503 into 88e9fde4713e8068cc1f13ca791e775495d06cf9
+"
+post;julianlsolvers_nlsolversbase.jl;5d007f35181caf8527dfdad6b6ad3b9b9ee39c40;Guillaume Dalle <22795598+gdalle@users.noreply.github.com>;1733313598;"Start DI integration
+"
+post;julianlsolvers_nlsolversbase.jl;8be2259b711e52242870fa5b6f1e147245160160;Guillaume Dalle <22795598+gdalle@users.noreply.github.com>;1733330320;"Fix bug
+"
+post;julianlsolvers_nlsolversbase.jl;7783026d7a2e7327ef53958c36ee01d1f7ca1d80;Guillaume Dalle <22795598+gdalle@users.noreply.github.com>;1733338092;"Handle constraints
+"
+post;julianlsolvers_nlsolversbase.jl;5421064c6cf768f456488457bc32d6e4a86583fa;Guillaume Dalle <22795598+gdalle@users.noreply.github.com>;1733338250;"Add test action
+"
+post;julianlsolvers_nlsolversbase.jl;dbf30abd54abcdfb8b60026e610bfd8955bf7f58;Guillaume Dalle <22795598+gdalle@users.noreply.github.com>;1733338481;"Bump version to 7.9.0
+"
+post;julianlsolvers_nlsolversbase.jl;de939e9bba3e1aeb939c0bd1ebb0591bb84833b2;Guillaume Dalle <22795598+gdalle@users.noreply.github.com>;1733472478;"Add test action (#154)
+
+"
+pre;lsstdesc_weaklensingdeblending;5ad403fa02f98a4dd52344226d4787b29612e4ba;Francisco Javier Sanchez Lopez <jsanch87@des90.fnal.gov>;1607307463;"fixed bug
+"
+pre;lsstdesc_weaklensingdeblending;44928f35135ef84ffcfa53161cbc69db856422a0;Javier Sanchez <fjaviersanchez@users.noreply.github.com>;1607307484;"Merge 5ad403fa02f98a4dd52344226d4787b29612e4ba into e3dd7ab7d051a6a08294f3b5234bc52b50c70c2e
+"
+pre;lsstdesc_weaklensingdeblending;c53bee9356fe1f46e1667d3f0ac15abd4caeb206;Javier Sanchez <francs1@uci.edu>;1633104503;"Added citation
+"
+pre;lsstdesc_weaklensingdeblending;468fcbb7c0cb481ab3bd51ae12798208f5eeea5a;Javier Sanchez <francs1@uci.edu>;1633105420;"update README
+"
+pre;lsstdesc_weaklensingdeblending;64fc732783e2904b4d725b52a652bcb04f2ffb1b;Javier Sanchez <francs1@uci.edu>;1633105579;"update README
+"
+pre;lsstdesc_weaklensingdeblending;48ad0ce36519b0cd43decbbc31e259647724c229;Javier Sanchez <francs1@uci.edu>;1633107734;"Added @dkirkby's suggestions
+"
+pre;lsstdesc_weaklensingdeblending;794bde312a1fb93e7f355c6766f3b03d83d8873b;Javier Sanchez <francs1@uci.edu>;1633107881;"Fixed typo
+"
+pre;lsstdesc_weaklensingdeblending;2e44f505a184badf8de3a19645ba8f869464961b;Javier Sanchez <francs1@uci.edu>;1633708661;"Removed repeated row
+"
+pre;lsstdesc_weaklensingdeblending;228c6655d63de9edd9bf2c8530f99199ee47fc5e;Javier Sanchez <fjaviersanchez@users.noreply.github.com>;1633711467;"Merge pull request #54 from LSSTDESC/citation_cff
+
+Add citation details"
+pre;lsstdesc_weaklensingdeblending;407eae75592f2d75d49cdf838f0a1a4255cdfc03;Javier Sanchez <fjaviersanchez@users.noreply.github.com>;1642018972;"Merge 5ad403fa02f98a4dd52344226d4787b29612e4ba into 228c6655d63de9edd9bf2c8530f99199ee47fc5e
+"
+post;lsstdesc_weaklensingdeblending;f653e07a20e69e17f385f0c7d327e60cec419996;Xiangchong Li <mr.superonion@hotmail.com>;1702062465;HSC pixel size is 0.168
+post;lsstdesc_weaklensingdeblending;3add01d51d340e24cf4efd87c3f7420b40e41bd4;Javier Sanchez <fjaviersanchez@users.noreply.github.com>;1702417295;"Merge pull request #55 from mr-superonion/patch-1
+
+"
+post;lsstdesc_weaklensingdeblending;5ef807e2f0887705d5c686cf405a8527c5c5974c;Javier Sanchez <fjaviersanchez@users.noreply.github.com>;1718271871;"Merge 5ad403fa02f98a4dd52344226d4787b29612e4ba into 3add01d51d340e24cf4efd87c3f7420b40e41bd4
+"
+post;lsstdesc_weaklensingdeblending;4e89beba2b30b8469a14d8fc56b593c04cbce7d6;Arun Kannawadi <arunkannawadi@astro.princeton.edu>;1753238097;"chore: Add a version.py
+"
+post;lsstdesc_weaklensingdeblending;d3fc22c17a84d854418be153c52eb5372e3005b7;Arun Kannawadi <arunkannawadi@astro.princeton.edu>;1753238398;"chore: Make it eups installable
+"
+post;lsstdesc_weaklensingdeblending;2917fe9f4b5bec41f9e2be81d606cfa2d0de3fd2;Arun Kannawadi <arun.kannawadi@duke.edu>;1753286801;"Merge pull request #56 from arunkannawadi/eups
+
+Make this package eups installable"
+post;lsstdesc_weaklensingdeblending;9cdd7b64f889be32b4aefb82ec7ca62717f0947c;Arun Kannawadi <arun.kannawadi@duke.edu>;1753390027;chore: Setup base in eups table
+post;lsstdesc_weaklensingdeblending;811db82e6ee68884b0c7e6b10184a86bba1d284f;Arun Kannawadi <arun.kannawadi@duke.edu>;1753390073;"Merge pull request #57 from LSSTDESC/u/arunkannawadi/eups-base
+
+Setup base in eups table"
+post;lsstdesc_weaklensingdeblending;40ef1065ffd3b7218b19ebc4075feafaa1ff68cd;Javier Sanchez <fjaviersanchez@users.noreply.github.com>;1768592774;"Merge 5ad403fa02f98a4dd52344226d4787b29612e4ba into 811db82e6ee68884b0c7e6b10184a86bba1d284f
+"
+pre;mkazhdan_poissonrecon;8f00795814d0c5152b9918674a1018f9735dd48f;mkazhdan <misha@cs.jhu.edu>;1477976104;"Version 9.01
+
+Reverted density estimation
+"
+pre;mkazhdan_poissonrecon;03604f92a9b0588c030baf654e1bac1d93671ad8;mkazhdan <misha@cs.jhu.edu>;1477979780;"V 9.01
+
+Added float64 fix to PlyFile.cpp
+"
+pre;mkazhdan_poissonrecon;1418a8eb3ac24caeb85f3a62fef0a891bf275411;Daniel Girardeau-Montaut <daniel.girardeau@gmail.com>;1478278974;"Merge remote-tracking branch 'upstream/master'
+"
+pre;mkazhdan_poissonrecon;6065cf280f989dfc93dbd2d0d776c888be076b09;Daniel Girardeau-Montaut <daniel.girardeau@gmail.com>;1478281377;"Merge remote-tracking branch 'paolokillerchanges/master'
+"
+pre;mkazhdan_poissonrecon;d9052251f909709036d42359a5490d4a68a66b75;Daniel Girardeau-Montaut <daniel.girardeau@gmail.com>;1478283085;"Compilation with PoissonRecon V9.1
+"
+pre;mkazhdan_poissonrecon;bd01c46bc8a5951cae324d855f99b27cc1fe60b8;Paolo Cignoni <paolo.cignoni@isti.cnr.it>;1478294593;"Merge branch 'master' into mkazhdan/master
+"
+pre;mkazhdan_poissonrecon;40989e780264db47606098ac95eef0e7f3dd0525;Paolo Cignoni <paolo.cignoni@isti.cnr.it>;1478294621;"Merge branch 'mkazhdan/master'
+"
+pre;mkazhdan_poissonrecon;8e70937758213be6b46b639d95833529d551782c;Paolo Cignoni <paolo.cignoni@isti.cnr.it>;1478294905;"Merge branch 'mkazhdan/master'
+"
+pre;mkazhdan_poissonrecon;f06860bffaff9ee0cf4dc4fdd6842e2f9a54bd7a;Paolo Cignoni <paolo.cignoni@isti.cnr.it>;1478430635;"Just added a comment in the pro to remember some qtcreator details...
+"
+pre;mkazhdan_poissonrecon;7ad96383f639d7625a843c6e97b3ae5579507350;Daniel Girardeau-Montaut <daniel.girardeau@gmail.com>;1478970227;"Make sure Dirichlet is the default boundary model
+"
+post;mkazhdan_poissonrecon;81dd0218bbb55c6b31d48ab7d4f951cfa5511f4d;Andrew Bell <andrew.bell.ia@gmail.com>;1494524394;"Fix a couple of logic errors.
+Changes to make clang compiler happy.
+"
+post;mkazhdan_poissonrecon;e26e570d938126722528c9d1a402e78094f6162f;Andrew Bell <andrew.bell.ia@gmail.com>;1494536787;"Merge 81dd0218bbb55c6b31d48ab7d4f951cfa5511f4d into 03604f92a9b0588c030baf654e1bac1d93671ad8
+"
+post;mkazhdan_poissonrecon;a771d40a045d57e510c49d3c651c8762b811f4a7;Andrew Bell <andrew.bell.ia@gmail.com>;1494539247;"Close #23
+"
+post;mkazhdan_poissonrecon;37a7d70acbfa6ac3cf7f039844dd9b97d1d87cea;Andrew Bell <andrew.bell.ia@gmail.com>;1494625806;"Change char * to void * in PlyFile, eliminating much cashing and alignment
+warnings.
+"
+post;mkazhdan_poissonrecon;4f7fab12962606c29adc57fb55ffd4123b83ae66;Andrew Bell <andrew.bell.ia@gmail.com>;1494625806;"Change char * to void * in PlyFile, eliminating alignment
+warnings.
+"
+post;mkazhdan_poissonrecon;01741dda7be7cb99245241d2eaaa36aa1e6a1f67;Andrew Bell <andrew.bell.ia@gmail.com>;1494862706;"Merge remote-tracking branch 'origin/master'
+"
+post;mkazhdan_poissonrecon;b3f0da5525b5c17c78392db7d2eeca00dafe7c77;Andrew Bell <andrew.bell.ia@gmail.com>;1494865229;"Break SurfaceTrimmer driver off so that algorithm can be used independently of auxiliary code.
+"
+post;mkazhdan_poissonrecon;20c25cb5fc39358f50321e8a21477008e4523de9;Andrew Bell <andrew.bell.ia@gmail.com>;1494886894;"Add necessary header file.
+"
+post;mkazhdan_poissonrecon;c3486d9cc3f20304a8627b88ff845956e4a2910a;Andrew Bell <andrew.bell.ia@gmail.com>;1494886939;"Actually use templates for polynomial solution and eliminate access attempt
+past end of array.
+Simplify vector getSolutions() by calling pointer variant.
+"
+post;mkazhdan_poissonrecon;def8b6c8c8d52c9e0232d054366e4eb2a115c57b;Andrew Bell <andrew.bell.ia@gmail.com>;1495829487;"Remove dead includes from SurfaceTrimmer.
+"
+pre;soerenpannier_emdi;d11cc0d0bcf5158c6145a1b1ff1169eb16936bd2;Pannier <spannier@fu-berlin.de>;1499263875;"change in documentation emdi
+"
+pre;soerenpannier_emdi;0948e26c4f74bab05c2705f1960c6333b543d087;Pannier <spannier@fu-berlin.de>;1499264046;"testing
+"
+pre;soerenpannier_emdi;a65326ea5540dcd8c83476a2a995b2d30bd2564e;Kreutzmann <akreutzmann@fu-berlin.de>;1499276719;"revdep
+"
+pre;soerenpannier_emdi;3eb1d713737dd0a26ea33f7f50371ee506963867;Kreutzmann <akreutzmann@fu-berlin.de>;1499276737;"test under newest version
+"
+pre;soerenpannier_emdi;db69f36bd76d91bd1dbd0f018c5008a98997c14d;Pannier <spannier@fu-berlin.de>;1499277539;"revdep
+"
+pre;soerenpannier_emdi;3b756a01ba11ea6b829c78840ca4a9125c2ef1c2;Pannier <spannier@fu-berlin.de>;1499277569;"Merge branch 'master' of https://github.com/SoerenPannier/emdi
+
+# Conflicts:
+#	revdep/README.md
+#	revdep/checks.rds
+#	revdep/problems.md
+"
+pre;soerenpannier_emdi;731b13d3ad05afc7aaf947a7b04046974afeaa72;Pannier <spannier@fu-berlin.de>;1499337730;"description and revdep
+"
+pre;soerenpannier_emdi;8db7a546ba7a420ca294ef13211a6fd0d343adaa;Pannier <spannier@fu-berlin.de>;1499337926;"new vignettes
+"
+pre;soerenpannier_emdi;244742343587fd072762ecdd6c4acbd126c490fc;Pannier <spannier@fu-berlin.de>;1499338139;"new vignettes in inst
+"
+pre;soerenpannier_emdi;6e943ca35091bc72a3bfd52dc4658c45509f7154;Pannier <spannier@fu-berlin.de>;1499340231;"delete test for parametric bootstrap, new seed for reproduction instead
+"
+post;soerenpannier_emdi;8a2f4ae8534dbf045b86447551a864e3f588363c;soerenpannier <soeren.pannier@fu-berlin.de>;1515763033;"improved formating
+"
+post;soerenpannier_emdi;d38a4a06db4d6f87f95faafcad5e3b3eb41ae295;soerenpannier <soeren.pannier@fu-berlin.de>;1515763420;"merged
+
+Merge branch 'master' of https://github.com/SoerenPannier/emdi
+
+# Conflicts:
+#	R/map_plot.R
+"
+post;soerenpannier_emdi;814383f2048c11dbca56b369e52bca30c7445bb8;soerenpannier <soeren.pannier@fu-berlin.de>;1515764548;"many T to TRUE and F to FALSE
+"
+post;soerenpannier_emdi;e25027b247fc2da87149dbf5489ceb8a020bd84a;soerenpannier <soeren.pannier@fu-berlin.de>;1515766247;"more true false from T F
+"
+post;soerenpannier_emdi;dfad36ec75f6a8e65f099c104b7a59d50586cd03;soerenpannier <soeren.pannier@fu-berlin.de>;1515766605;"sapply to vapply
+"
+post;soerenpannier_emdi;d49e5660f73d1901e68e1dfa5b4b84c1178538ff;soerenpannier <soeren.pannier@fu-berlin.de>;1515768661;"sapply to vapply only when applicable
+"
+post;soerenpannier_emdi;ca6951310e7c0f0425d75cc9c90b45214bb61fcc;Kreutzmann <akreutzmann@fu-berlin.de>;1516377676;"comparison function
+"
+post;soerenpannier_emdi;8319ba3120fc9d4c315127d165241f4dd2cb8caf;Kreutzmann <akreutzmann@fu-berlin.de>;1516637917;"comparison function - first draft
+"
+post;soerenpannier_emdi;f45daae0fd21234b252ce2a57ef83d4a51b1f144;Kreutzmann <akreutzmann@fu-berlin.de>;1516637947;"usage of pkg instead of code for packages
+"
+post;soerenpannier_emdi;d9539b39a07cbfe54ada44c42a267ae98632e16f;Kreutzmann <akreutzmann@fu-berlin.de>;1516637964;"add URL to description
+"
+pre;stephenslab_flashr;f9407735986ae644ce0e60c4264d48dbc13f0b95;Jason Willwerscheid <willwerscheid@uchicago.edu>;1543771981;"Add contexts to test files.
+"
+pre;stephenslab_flashr;276bca27a634d53697bae550c0566b3d1f12dbfc;Peter Carbonetto <peter.carbonetto@gmail.com>;1548940760;"Customized package installation for Travis.
+"
+pre;stephenslab_flashr;fc081f5132349409359300b613bb76c64c796a61;Matthew Stephens <stephens999@gmail.com>;1561022053;"export the  get_ functions
+"
+pre;stephenslab_flashr;8d2c6af46bbcef54cc373f941c906ecaac1ffdb6;Peter Carbonetto <peter.carbonetto@gmail.com>;1561033458;"Bumped up version; updated installation instructions; re-ran devtools::document().
+"
+pre;stephenslab_flashr;65be4daa6a0ce6a4e540e709382b3cdec745f2e2;Peter Carbonetto <peter.carbonetto@gmail.com>;1561033510;"Merge branch 'master' of github.com:stephenslab/flashr.
+"
+pre;stephenslab_flashr;f8379f9e2be8cac68788bffa4882daeabb60144f;Peter Carbonetto <peter.carbonetto@gmail.com>;1561034124;"Fixed up roxygen2 docs for a couple get_ functions.
+"
+pre;stephenslab_flashr;c6c32231fc9cb7f89284636437596797c9279a25;Jason Willwerscheid <willwerscheid@uchicago.edu>;1561659027;"Update to use new ebnm interface. Still getting warnings in flash_object tests that need to be investigated.
+"
+pre;stephenslab_flashr;22ed63fa343acb417d5cc558905b36665d935cfa;Jason Willwerscheid <willwerscheid@uchicago.edu>;1561907456;"Update ebnm_functions.R
+
+Fix to ebnm_pl.
+"
+pre;stephenslab_flashr;ae44e7d5d5b77c3cd70043ee4c74d801b524ec46;Jason Willwerscheid <willwerscheid@uchicago.edu>;1573516969;"fix ebnm_pl to use newer ebnm interface
+"
+pre;stephenslab_flashr;cbaf810aadc8499a9b5625b36cd0382cc22c711d;Peter Carbonetto <peter.carbonetto@gmail.com>;1621273794;"Updated ebnm version requirement.
+"
+post;stephenslab_flashr;c65e7f119fb197b1e1df88bdac20d1f1de1b5cf8;Peter Carbonetto <peter.carbonetto@gmail.com>;1704295887;"Added note to README.
+"
+post;stephenslab_flashr;e47c33f3740dd09948a98694e321d6ccc11c1324;Peter Carbonetto <peter.carbonetto@gmail.com>;1704295987;"Edit to README.
+"
+post;stephenslab_flashr;565eb0049a260f561a3376be02f64e57d1ac6864;Peter Carbonetto <peter.carbonetto@gmail.com>;1704296011;"Small fix to README.
+"
+post;stephenslab_flashr;0c49f0ffac08c5e6f538633be159d8cff0aa7d5e;Matthew Stephens <stephens999@gmail.com>;1733317879;Update README.md
+pre;svf-tools_svf;26ef12d3876b7648397fdc9975a261058c2bda1a;Rasmus Tjalk-Bøggild <boggild@gmail.com>;1470244978;"Suppressed build warnings for CUDD
+"
+pre;svf-tools_svf;a1b0d97192717b63f94aa26e24603a889f1839f7;Rasmus Tjalk-Bøggild <boggild@gmail.com>;1470248499;"Moved CUDD tests from lib dir to tests dir
+"
+pre;svf-tools_svf;ebde182fbf10a579acc1a6b3d16be356a302242e;Rasmus Tjalk-Bøggild <boggild@gmail.com>;1470248534;"Added CMake support for LLVM 3.7
+"
+pre;svf-tools_svf;6d378647278f5212448ac7723e573f315d1f99be;Yulei Sui <rockysui@users.noreply.github.com>;1470274089;"Merge pull request #8 from rboggild/master
+
+Added CMake support for SVF"
+pre;svf-tools_svf;66f2595c5042f9830ed283b3ad2176c65a8d66b6;Yulei Sui <ysui@cse.unsw.edu.au>;1470274358;"disable cast warning in CUDD package
+"
+pre;svf-tools_svf;530816cf6bed48a13a444dbd6a71a9695d9b9c67;Yulei Sui <rockysui@users.noreply.github.com>;1470383272;Update README.md
+pre;svf-tools_svf;0ab1f8672ab0ded084bf1f5acc3961d12ffaf429;Yulei Sui <rockysui@users.noreply.github.com>;1470383637;Update index.html
+pre;svf-tools_svf;fb66709e9d9775031f2b0b4273704f72aaa7f0f3;Yulei Sui <rockysui@users.noreply.github.com>;1472259493;Update README.md
+pre;svf-tools_svf;e2b06ce93fb97d90d810b11e3aafb19af87c518e;Yulei Sui <rockysui@users.noreply.github.com>;1476845421;Update README.md
+pre;svf-tools_svf;f1a19d16c391e2badd319d044124f0be7f32267a;Yulei Sui <rockysui@users.noreply.github.com>;1476845442;Update README.md
+post;svf-tools_svf;479fae19d15ac880513edc528d434739a959c0e1;fanx <fanx@cse.unsw.edu.au>;1487821398;"Synchronize with internal repository
+"
+post;svf-tools_svf;e7c8d88a16fa649b8ffb864850a075ab1128f71e;fanx <fanx@cse.unsw.edu.au>;1487821557;"Add support for C++
+"
+post;svf-tools_svf;8c3a19399c5998096f53f69f68a3afdaa9935ce7;Yulei Sui <rockysui@gmail.com>;1487823983;"README and contributors updates
+"
+post;svf-tools_svf;9e2e2f2e50ddf5dcf6a6543ecaa1b40069f2942e;Yulei Sui <rockysui@users.noreply.github.com>;1487931125;Update index.html
+post;svf-tools_svf;e3512c4e89fc097561dc8b3cf5f852510a408d0e;Yulei Sui <rockysui@gmail.com>;1487997097;"Update README.md
+"
+post;svf-tools_svf;67069e6d6c606a519001ecc287c4c18b3f646955;Xiaokang Fan <fanx@cse.unsw.edu.au>;1488155889;"Add .gitignore and fix handling variant gep
+"
+post;svf-tools_svf;4295bb8b81f87d3e41c032d31abccdedcc5d6cec;Yulei Sui <rockysui@users.noreply.github.com>;1488840588;Update README.md
+post;svf-tools_svf;3317af10007c1b60f3f1b929c8e261bb25fad115;Yulei Sui <rockysui@users.noreply.github.com>;1489639655;Update index.html
+post;svf-tools_svf;fee3803183f57b5ce4c2efec34762f22f95bd428;Xiaokang Fan <fanx@cse.unsw.edu.au>;1489978925;"Synchronizing with internal repository
+"
+post;svf-tools_svf;5355fc2eb39412dd8f3fae74dc2bc9ff433c8e15;Xiaokang Fan <fanx@cse.unsw.edu.au>;1490156828;"Synchronizing with internal repository
+"
